@@ -18,3 +18,18 @@
 <a href="https://ibb.co/HTLb8n8"><img src="https://i.ibb.co/fdVyw4w/Screenshot-20210913-165544.jpg" alt="Screenshot-20210913-165544" width="120"></a>
 <a href="https://ibb.co/7z4JjNq"><img src="https://i.ibb.co/H2dDBpj/Screenshot-20210913-165539.jpg" alt="Screenshot-20210913-165539" width="120"></a>
 <a href="https://ibb.co/wCwBXWg"><img src="https://i.ibb.co/WFPGwy5/photo-2021-09-13-17-05-16.jpg" alt="photo-2021-09-13-17-05-16" width="120"></a>
+
+# flutter pub get
+# flutter run 
+  Peckage:
+  cupertino_icons: ^1.0.2 <br/>
+  firebase_core: ^1.4.0 <br/>
+  cloud_firestore: ^2.5.0 <br/>
+  firebase_storage: ^10.0.2 <br/>
+  firebase_auth: ^3.1.1 <br/>
+  google_sign_in: ^5.0.7 <br/>
+  flutter_zoom_drawer: ^2.1.1 <br/>
+  font_awesome_flutter: ^9.1.0 <br/>
+  flutter_slidable: ^0.6.0 <br/>
+  provider: ^6.0.0 <br/>
+  shared_preferences: ^2.0.7 <br/>
