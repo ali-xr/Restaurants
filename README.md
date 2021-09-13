@@ -21,7 +21,7 @@
 
 # flutter pub get
 # flutter run 
-  Peckage:
+ # Peckage:
   cupertino_icons: ^1.0.2 <br/>
   firebase_core: ^1.4.0 <br/>
   cloud_firestore: ^2.5.0 <br/>
